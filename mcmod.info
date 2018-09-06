@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "skyhighshops",
+        "name": "Sky High Shops",
+        "version": "0.5.3",
+        "description": "A simple plugin for shops.",
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "authorList": [
+                "JessRed",
+                "KileyK",
+                "Kitten160000"
+            ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    }
+]

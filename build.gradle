@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group 'io.github.jess4tech'
+version '0.5.3'
+description = 'A simple plugin for shops.'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}
